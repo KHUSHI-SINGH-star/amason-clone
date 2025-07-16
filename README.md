@@ -87,5 +87,5 @@ Built with ❤️ using code, caffeine, and creativity.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/amazon-clone.git
+git clone https://khushi-singh-star.github.io/amason-clone.git
 

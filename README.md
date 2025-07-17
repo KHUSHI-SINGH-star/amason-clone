@@ -1,4 +1,4 @@
-# amason-clone
+
 # 🛒 Amazon Clone
 
 A clean, responsive, and interactive **Amazon home page clone** built using **HTML**, **CSS**.  
@@ -24,7 +24,7 @@ This project is a front-end replica of the world’s most popular e-commerce sit
 - Responsive design with media queries
 - Reusable UI components
 - Flexbox and Grid-based page structuring
-- Clean file separation (HTML / CSS / JS)
+- Clean file separation (HTML / CSS)
 
 ---
 
@@ -44,14 +44,11 @@ Edit
 amazon-clone/
 ├── index.html        # Main page layout
 ├── style.css         # Styling and responsive design
-└── script.js         # Interactivity (e.g., menu toggle)
 ---
 ⚙️ Tech Stack
 ✅ HTML5
 
 ✅ CSS3 (Flexbox, Grid, Media Queries)
-
-✅ Vanilla JavaScript (optional interactivity)
 
 No frameworks, no libraries — everything handcrafted.
 ---

@@ -1,7 +1,7 @@
 # amason-clone
 # 🛒 Amazon Clone
 
-A clean, responsive, and interactive **Amazon home page clone** built using **HTML**, **CSS**, and **JavaScript**.  
+A clean, responsive, and interactive **Amazon home page clone** built using **HTML**, **CSS**.  
 This project is a front-end replica of the world’s most popular e-commerce site — designed for learning, creativity, and front-end development practice.
 
 ---
@@ -14,7 +14,7 @@ This project is a front-end replica of the world’s most popular e-commerce sit
 - 🧾 Category sections & product cards
 - 🛒 Cart icon and login simulation
 - 🎨 CSS hover effects and grid layout
-- 🚫 No frameworks used — pure HTML, CSS & JS
+- 🚫 No frameworks used — pure HTML, CSS 
 
 ---
 
